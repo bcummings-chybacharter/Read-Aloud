@@ -1,0 +1,5 @@
+{
+  "name": "Story Aloud",
+  "description": "Reads stories or any text from a web page aloud using natural-sounding AI voices. Just paste the text, choose a voice, and listen.",
+  "requestFramePermissions": []
+}
